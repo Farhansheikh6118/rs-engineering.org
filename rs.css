@@ -1,0 +1,20 @@
+.navbar
+{
+    background:#353535;
+}
+.ion-icon1
+{
+    color: #7782CC;
+}
+
+.ion-icon2
+{
+    color: white  ;
+    margin:0px 5px ;
+    font-size: large;
+    transition: 0.5s;
+}
+ion-icon:hover
+{
+    color:    #7782CC   ;
+}
